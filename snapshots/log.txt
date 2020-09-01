@@ -1,0 +1,2 @@
+Parameters: 44048532
+iter		Loss(train)
